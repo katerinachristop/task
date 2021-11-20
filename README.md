@@ -1,4 +1,4 @@
-# Fast API with pretrained model predictions task.  
+# Fast API with pretrained model for image prediction.  
 <p>
 The code creates a simple Fast API and gets responses for images in json type requests which are predictions what animal is in the picture. For sending and posting requests we can you Postman (https://www.postman.com/downloads/).</p>
 
