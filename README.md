@@ -13,3 +13,6 @@ string_img = base64.b64encode(cv2.imencode('.jpg', img)[1]).decode()\
 &nbsp;
 &nbsp;
 
+Labeled data used are from:\
+Pretrained weights in h5 from Google (https://www.google.com/url?sa=D&q=https://storage.googleapis.com/tensorflow/keras-applications/densenet/densenet121_weights_tf_dim_ordering_tf_kernels.h5&ust=1637439480000000&usg=AOvVaw07lr7-i55Mx1i4SNTmj2XR&hl=en-GB&source=gmail)
+
