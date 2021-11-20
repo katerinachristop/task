@@ -4,6 +4,7 @@ from pydantic import BaseModel
 import json
 
 import mxnet as mx
+from mxnet.gluon.model_zoo import vision
 import numpy as np
 
 """
